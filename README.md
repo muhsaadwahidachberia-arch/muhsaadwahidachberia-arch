@@ -16,6 +16,7 @@ My current project is **Central ATK**, a storefront and store-management applica
 **[Personal portfolio →](https://muhammad-saad-wahid.gentlepeony8.chatgpt.site)** · Also known as Sa'ad Wahid.
 
 - 🌱 Learning by building, testing, and improving real workflows.
+- 🎓 Studying Ilmu Komputer (Computer Science) at Universitas Muslim Indonesia.
 - 🛠️ Working with Laravel, PHP, JavaScript, and relational databases.
 - 🎯 Focusing on useful features, clear interfaces, and reliable order handling.
 

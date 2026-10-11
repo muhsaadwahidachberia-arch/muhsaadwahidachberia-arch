@@ -1,16 +1,19 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Sa'ad Wahid — building useful things, one improvement at a time">
+  <img src="./assets/header.svg" width="100%" alt="Muhammad Sa'ad Wahid — building useful things, one improvement at a time">
 </p>
 
 <p align="center">
+  <a href="https://muhammad-saad-wahid.gentlepeony8.chatgpt.site"><img src="https://img.shields.io/badge/Visit-My_Portfolio-4ade80?style=for-the-badge&labelColor=10251c" alt="Visit Muhammad Sa'ad Wahid's portfolio"></a>
   <a href="https://centralatk.com"><img src="https://img.shields.io/badge/Explore-Central_ATK-22c55e?style=for-the-badge&labelColor=10251c" alt="Explore Central ATK"></a>
   <a href="https://github.com/muhsaadwahidachberia-arch?tab=repositories"><img src="https://img.shields.io/badge/View-Projects-86efac?style=for-the-badge&labelColor=10251c" alt="View projects"></a>
 </p>
 
-### Hi, I'm Sa'ad Wahid 👋
+### Hi, I'm Muhammad Sa'ad Wahid 👋
 
 I'm building practical web applications for real businesses.
 My current project is **Central ATK**, a storefront and store-management application for a stationery shop in Timika, Indonesia.
+
+**[Personal portfolio →](https://muhammad-saad-wahid.gentlepeony8.chatgpt.site)** · Also known as Sa'ad Wahid.
 
 - 🌱 Learning by building, testing, and improving real workflows.
 - 🛠️ Working with Laravel, PHP, JavaScript, and relational databases.
@@ -53,4 +56,3 @@ Payment verification is handled by staff; the site does not automatically confir
   <strong>Build thoughtfully. Test carefully. Keep improving.</strong><br>
   <sub>Real projects. Real progress.</sub>
 </p>
-
